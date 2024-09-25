@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<head>
+   
+    <title>Web Development Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Web Development Quiz</h1>
+    <h2>About Me</h2>
+    <p>My name is Diego and I am 15 years old.</p>
+    <p>I am a junior in the business program.</p>
+
+    <h2>Favorite Hobbies</h2>
+    <ol>
+        <li>Soccer</li>
+        <li>Music</li>
+        <li>Sleep</li>
+    </ol>
+
+    <a href="otherpage.html">Go to Other Page</a>
+
+    <img src="https://media.lasvegassun.com/media/img/photos/2010/08/30/WESTTECH1.pt__t650.jpg?5711a3b57decb389a12ba40e20471e031ff69545" alt="WestTech Image" width="250" height="150">
+
+</body>
+</html>
